@@ -1,10 +1,12 @@
 
 <html>
 	<head>
-		我的第一个git文件
+		<title>我的第一个git文件</title>
+		<meta chaset="utf-8">
 	</head>
 	<body>
 		德玛西亚
 	</body>
 
 </html>
+
